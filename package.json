@@ -1,6 +1,6 @@
 {
   "name": "gle-asl",
-  "description": "American Sign Language detection using machine learning",
+  "description": "Practice ASL Finger Spelling using machine learning",
   "version": "0.1.0",
   "private": true,
   "scripts": {
