@@ -50,7 +50,10 @@ export const Navbar = () => {
     return (
         <NavContainer>
             <NavLogo>
-                <AslLogoImage src='./asl-logo.png' className="asl-logo-img" width={95} height={40} alt="ASL"/>
+                <AslLogoImage alt="asl logo"
+                              src='./asl-logo.png'
+                              width={95}
+                              height={40}/>
                 <Link href="/">
                     Finger Spell
                 </Link>
@@ -65,7 +68,9 @@ export const Navbar = () => {
                         Point your webcam at your hands to practice ASL finger spelling.
                     </PopoverDescription>
                     <PopoverDescription>
-                        <img alt='asl' src='/asl-chart.png' width={"100%"}/>
+                        <img alt='asl-chart'
+                             src='./asl-chart.png'
+                             width={"100%"}/>
                     </PopoverDescription>
                 </HelpPopoverContent>
             </Popover>
