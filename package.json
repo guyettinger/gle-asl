@@ -1,0 +1,32 @@
+{
+  "name": "gle-asl",
+  "description": "American Sign Language detection using machine learning",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "gle-components": "^1.0.3",
+    "gle-roboflow-components": "^1.0.5",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-webcam": "^7.1.1",
+    "react-icons": "^4.11.0",
+    "styled-components": "^6.0.8",
+    "styled-breakpoints": "^12.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/styled-components": "^5.1.28",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
