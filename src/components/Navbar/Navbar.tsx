@@ -51,7 +51,7 @@ export const Navbar = () => {
         <NavContainer>
             <NavLogo>
                 <AslLogoImage alt="asl logo"
-                              src='./asl-logo.png'
+                              src='./images/asl-logo.png'
                               width={95}
                               height={40}/>
                 <Link href="/">
