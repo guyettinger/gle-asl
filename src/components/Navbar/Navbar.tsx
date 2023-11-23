@@ -69,7 +69,7 @@ export const Navbar = () => {
                     </PopoverDescription>
                     <PopoverDescription>
                         <img alt='asl-chart'
-                             src='./asl-chart.png'
+                             src='./images/asl-chart.png'
                              width={"100%"}/>
                     </PopoverDescription>
                 </HelpPopoverContent>
